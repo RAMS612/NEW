@@ -1,0 +1,3 @@
+Hi i am learning github
+this is github session , and this is nano command
+this is next line entered throught cat command
